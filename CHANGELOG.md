@@ -4,6 +4,10 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 ### Unreleased
 
+#### Breaking changes
+
+* Require Ruby >= 3.4.0
+
 ### 2.0.0.beta-4
 
 #### Fixed
